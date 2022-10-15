@@ -1,3 +1,5 @@
+# source: https://www.youtube.com/watch?v=UQQsYXa1EHs
+
 import re
 
 pattern = '(\d\d\d)-(\d\d\d)-(\d\d\d\d)'
